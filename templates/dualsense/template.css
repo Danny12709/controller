@@ -8,7 +8,7 @@
 }
 
 #gamepad[data-color="white"] .controller {
-    background-image: url(base-white.png);
+    background-image: url(blue-controller.png);
 }
 
 #gamepad.disconnected .controller {
